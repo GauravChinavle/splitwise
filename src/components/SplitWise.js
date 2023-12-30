@@ -1,10 +1,5 @@
 import * as React from 'react';
-import Box from '@mui/material/Box';
-import Stepper from '@mui/material/Stepper';
-import Step from '@mui/material/Step';
-import StepButton from '@mui/material/StepButton';
-import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
+import { Box, Stepper, Step, StepButton, Button, Typography } from '@mui/material';
 import { Container } from '@mui/system';
 import AddMember from './AddMember'
 import AddExpense from './AddExpense'

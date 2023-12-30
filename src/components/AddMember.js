@@ -1,7 +1,6 @@
 import * as React from "react";
 import { styled } from "@mui/material/styles";
-import TextField from "@mui/material/TextField";
-import Button from "@mui/material/Button";
+import { TextField, Button } from "@mui/material";
 
 const ColorButton = styled(Button)(({ theme }) => ({
     color: "#0063cc",
