@@ -1,20 +1,36 @@
-# Covid-19 Vaccine Availability Tracker App
+# Splitwise
 
-### Description
-This project provides a data for COVID-19 Vaccine Slots availability .
+### Overview
+Splitwise is a simple expense splitting application that helps users manage shared expenses effortlessly.
 
-### How to use ?
-  ```
-  git clone https://github.com/GauravChinavle/vaccine-slots.git
-  cd vaccine-slots
-  npm install
-  npm start
-  ```
+### Features
+Expense Splitting: Easily split expenses among friends, roommates, or group members.
+User-Friendly Interface: Intuitive and user-friendly design for seamless navigation.
+Real-Time Updates: Instantly see updates as expenses are added or settled.
 
-### Technologies used
+### How to Use
+1. Clone the Repository:
+```
+git clone https://github.com/GauravChinavle/Splitwise.git
+```
+2. Install Dependencies:
+```
+cd Splitwise
+npm install
+```
+3. Run the Application:
+```
+npm start
+```
+4. Access the Application:
+Open your web browser and go to http://localhost:3000.
+
+### Technologies Used
 - [React-JS](https://reactjs.org/) - _A JavaScript library for building user interfaces_
-- [Material-UI](https://material-ui.com/) - _React components for faster and easier web development_
 
+Issues
+If you encounter any issues or have suggestions, please open an issue [here](https://github.com/GauravChinavle/splitwise/issues).
 
-### Modules used
-- [moment](https://www.npmjs.com/package/moment) -  _A JavaScript date library_
+Author
+Gaurav Chinawale
+Contact: chinawalegaurav@gmail.com
