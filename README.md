@@ -11,11 +11,11 @@ Real-Time Updates: Instantly see updates as expenses are added or settled.
 ### How to Use
 1. Clone the Repository:
 ```
-git clone https://github.com/GauravChinavle/Splitwise.git
+git clone https://github.com/GauravChinavle/splitwise.git
 ```
 2. Install Dependencies:
 ```
-cd Splitwise
+cd splitwise
 npm install
 ```
 3. Run the Application:
@@ -29,8 +29,10 @@ Open your web browser and go to http://localhost:3000.
 - [React-JS](https://reactjs.org/) - _A JavaScript library for building user interfaces_
 
 Issues
+
 If you encounter any issues or have suggestions, please open an issue [here](https://github.com/GauravChinavle/splitwise/issues).
 
 Author
+
 Gaurav Chinawale
 Contact: chinawalegaurav@gmail.com
