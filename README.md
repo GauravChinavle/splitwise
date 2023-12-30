@@ -28,11 +28,9 @@ Open your web browser and go to http://localhost:3000.
 ### Technologies Used
 - [React-JS](https://reactjs.org/) - _A JavaScript library for building user interfaces_
 
-Issues
-
+Issues<br/>
 If you encounter any issues or have suggestions, please open an issue [here](https://github.com/GauravChinavle/splitwise/issues).
 
-Author
-
+Author<br/>
 Gaurav Chinawale
 Contact: chinawalegaurav@gmail.com
